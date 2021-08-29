@@ -70,15 +70,13 @@ net worth = equity capital provided by owners + reserves and surpluses
 ** Creditor's Liability
 *** Short Term/Current Liability
 Loan is taken from bank and goods are bought on credit.
-|----------------------------------+-----------------------------------------|
-| *Owner's Liability*                | *Creditor's Liability*                    |
-|----------------------------------+-----------------------------------------|
-| The business may not necessarily | The business is obligated to repay      |
-| have to pay the original amount. | the capital amount along with interest. |
-|----------------------------------+-----------------------------------------|
-| The interest amount may vary, or | The interest amount is specified at     |
-| there may be no interest at all. | the time of the original investment.    |
-|----------------------------------+-----------------------------------------|
+|-------------------------------------------------------------------+----------------------------------------------------------------------------|
+| *Owner's Liability*                                                 | *Creditor's Liability*                                                       |
+|-------------------------------------------------------------------+----------------------------------------------------------------------------|
+| The business may not necessarily have to pay the original amount. | The business is obligated to repay the capital amount along with interest. |
+|-------------------------------------------------------------------+----------------------------------------------------------------------------|
+| The interest amount may vary, or there may be no interest at all. | The interest amount is specified at  the time of the original investment.  |
+|-------------------------------------------------------------------+----------------------------------------------------------------------------|
 A liability shall be classified as current when it satisfies any one of the following:
 1. It is expected to be settled in the company's *normal operating cycle*. (generally <1 year)
 2. It is held mainly for the purpose of *trading*.

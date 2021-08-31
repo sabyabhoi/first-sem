@@ -58,6 +58,8 @@ Adjustment Trial Balance \to Closing Entries \to Financial Statement \to Recordi
 3. To provide a record for compliance with statutes and applicable laws.
 4. To disclose financial information to the internal and external decision makers.
 * Balance sheet terms
+** Liability
+All the resources that a company owes to some entities are called liabilities.
 ** Owner's Liability
 The contributions made by the owner (equity shareholders) to the business.
 *** Owner's Capital

@@ -1,0 +1,61 @@
+#+TITLE: Nāgārjuna's Philosophy
+#+OPTIONS: tex:t
+#+STARTUP: latexpreview
+#+latex_class_options: [a4paper, 12pt]
+#+LATEX_HEADER: \pdfpkresolution=300
+#+LATEX_HEADER: \usepackage[margin=1.5cm]{geometry}
+
+* An Analysis of Conditions
+** Verse 1
+#+begin_verse
+``Not from itself, not from another, not from both, nor without cause:
+Never in any way is there any existing thing that has arisen.''
+#+end_verse
+The primary thought here is that cause and effect are not distinct entities, instead they're the same.
+Since, without one, the other is not possible.
+They both influence each other.
+** Verse 2
+#+begin_verse
+``The intrinsic nature of existence does not exist in the conditions, etc.
+The intrinsic nature not occuring, neither is extrinsic nature found.''
+#+end_verse
+E.g. Let fire be an effect, and claim that fire comes into existence due to some fuels.
+There's a fundamental difference between fire(the effect) and fuel(the cause), or else they could not be told apart.
+
+The basic way in which we can understand this difference is by understanding their *intrinsic nature*.
+The intrinsic nature of fire is /heat/.
+This is so because, under all conditions, it's not possible to speak about fire without the existence of heat.
+
+If cause and effect are identical, then the intrinsic nature of the effect would be observed in the cause itself.
+But this isn't the case, since we aren't able to observe the same amount of heat in fuel as we do in fire; and even if we did, there would be no need for fire to exist.
+Hence, Nāgārjuna argues that the intrinsic nature of an entity is independent of its conditions.
+*Extrinsic Nature* is an intrinsic nature existing external to an entity.
+** Verse 3
+#+begin_verse
+``There are four conditions: the primary cause, the objective support, the proximate condition, and of course the dominant condition; there is no fifth condition.'' — The opponent
+#+end_verse
+A *primary cause* is that from which the effect is thought to be produced.
+E.g. a seed (cause) and a sprout (effect); here, the sprout emanates from the seed without which, its existence is meaningless.
+This does not imply that seed is the soul entity which helps the sprout to exist.
+There are other conditions such as soil, water, sunlight which support the existence of the sprout.
+
+*Objective supports* are causes which only occur in the context of human cognition, which require the human senses.
+E.g. for visual cognition, the objective supports are color and shape; for auditory cognition, the objective support is sound.
+
+Before an effect actually materializes, *proximate conditions*  take place.
+E.g. when we see an object, the photons reflected (or released) from the object first reach our retina, then into our optical nerves, which then create a sensation of site in our eyes.
+
+The *dominant condition* determines the purpose of the undertaken action.
+E.g. in the formation of a simple jug, several materials like sand and silica are used. But if we do not plan to ever drink from that jug, its existence is meaningless. It wouldn't matter even if the jug would've been made out of cyanide, if we didn't plan to use it.
+** Verse 4
+#+begin_verse
+``An action does not possess conditions; nore is it devoid of conditions.
+Conditions are not devoid of an action; neither are they provided with an action.'' — The opponent
+#+end_verse
+A sprout is an effect with a primary cause called the seed, accompanied by a number of conditions such as moist soil, air and sunlight. These are some of the few conditions which form the entire *causal field*.
+The action here is planting the seed in the moist soil instead of on a solid rock.
+*** Nāgārjuna's Argument
+In terms of temporal relations, there are three logical possibilities:
+1. _The causal field and the action exist but the effect doesn't_. In this case, if the effect doesn't take place, then the existence of a causal field and action is meaningless.
+2. _The effect exists along with the field and the action_. Here the problem is that the field and action are not required to define the existence of the effect, because the effect already exists.
+3. _The existence and non-existence of effect is simulatenous_. This is inherently flawed.

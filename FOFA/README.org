@@ -1,14 +1,40 @@
 #+TITLE: Accounting
-#+AUTHOR:
 #+OPTIONS: tex:t
 #+STARTUP: latexpreview
 #+latex_class_options: [a4paper, 12pt]
 #+LATEX_HEADER: \pdfpkresolution=300
 #+LATEX_HEADER: \usepackage[margin=1.5cm]{geometry}
 
+* Basic Assumptions of Accounting
+** Business is a Separate Legal Entity
+** Going concern or continuity concept
+The business/company has *indefinite* life. This assumption is mandatory for
+acquiring resources.
+** Money Measurement Concept
+All the transactions/activities of monetary nature are recorded and reported.
+This is the case because money is a common denominator.
+** Accounting Period Concept
+Every year, a business has to file for tax return. Therefore, the business needs
+to know whether it's making profit or loss at the end of a specified period
+(financial year).
+** Accrual Concept
+It's based on the recognition of both cash and credit transactions. In essence,
+the company needs to record all the transactions (either buying or selling
+resources) which take place via cash or credit.
+* Basic Principles of Accounting
+** Revenue Realization Concept
+The revenue should be recognized only if it is certainly realizable.
+** Matching Concept
+Sale of goods has two effects:
+*** Revenue Effect
+It increases the owner's equity by the sales value of the transactions.
+*** Expense effect
+It reduces the owner's equity.
+
+Both of these properties need to be recognized in an accounting period.
 * Accounting terms
 ** Book keeping
-- Book keeping is the process of recording business transactions into a set of
+- keeping is the process of recording business transactions into a set of
 books.
 - Only transactions of monetary value are found in this book.
 - These transactions represent the transfer of economic value from one entity to
@@ -19,7 +45,7 @@ books.
 According to Indian General Accepted Accounting Principles(GAAP),it is the
 procedure of recording, reporting transactions of monetary nature for statutory
 requirements.
-*** General procedure:
+*** General procedure
 1. All business transactions are recorded in the form of *Journal Entries* on the
    basis of the [[Golden Rule of Accounting][golden rule of accounting]].
 2. Transactions of similar nature are grouped together and compiled into a *Ledger*.
